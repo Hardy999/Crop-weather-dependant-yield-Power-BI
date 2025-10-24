@@ -37,7 +37,7 @@ The analysis focuses on identifying patterns, comparing yields, and recommending
 
 
 
-
+![image alt](https://github.com/Hardy999/Crop-weather-dependant-yield-Power-BI/blob/main/Wheat%20Analysis.png?raw=true)
 
 ### **Wheat**
 
