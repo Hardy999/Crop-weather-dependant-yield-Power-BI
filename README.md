@@ -115,5 +115,3 @@ The analysis focuses on identifying patterns, comparing yields, and recommending
 
 ---
 
-Would you like me to help you write a **short GitHub project description** (the one that appears under the repo title, about 1 line long)? It can make your repository stand out more in search results.
-
