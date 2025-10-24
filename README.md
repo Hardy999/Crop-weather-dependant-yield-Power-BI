@@ -35,6 +35,10 @@ The analysis focuses on identifying patterns, comparing yields, and recommending
 
 ##  Crop-Specific Insights
 
+
+
+
+
 ### **Wheat**
 
 **Key Metrics:**
