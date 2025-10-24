@@ -53,6 +53,8 @@ The analysis focuses on identifying patterns, comparing yields, and recommending
 * **Rainfall > 5.3 mm/day** and **Wind > 5.79 m/s** increase the likelihood of **spring wheat**.
 
 
+![image alt](https://github.com/Hardy999/Crop-weather-dependant-yield-Power-BI/blob/main/Corn%20Analysis.png)
+
 
 ### **Corn**
 
@@ -69,6 +71,8 @@ The analysis focuses on identifying patterns, comparing yields, and recommending
 * Yield variation across treatments ranges between **210 K** and **144 K kg/ha**.
 
 ---
+
+![image alt](https://github.com/Hardy999/Crop-weather-dependant-yield-Power-BI/blob/main/Soy%20beans.png)
 
 ### **Soybeans**
 
